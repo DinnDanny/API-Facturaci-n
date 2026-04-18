@@ -35,11 +35,11 @@ A continuación, se presentan las capturas que validan el proceso de desarrollo 
 
 ### 1. Integración y Conexión
 Prueba de que el Frontend reconoce el microservicio activo en Docker.
-![Evidencia de integración exitosa](Evidencia de integración exitosa.png)
+![Evidencia de integración exitosa](Evidencia%20de%20integración%20exitosa.png)
 
 ### 2. Implementación de Código y Docker
 Muestra el código del controlador y el despliegue del contenedor mediante CLI.
-![Implementación de lógica de negocio](Implementación de lógica de nego....png)
+![Implementación de lógica de negocio](Implementación%20de%20lógica%20de%20nego....png)
 
 ### 3. Servidor Frontend
 Evidencia del servidor de React en ejecución.
