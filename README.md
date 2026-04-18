@@ -39,7 +39,7 @@ Prueba de que el Frontend reconoce el microservicio activo en Docker.
 
 ### 2. Implementación de Código y Docker
 Muestra el código del controlador y el despliegue del contenedor mediante CLI.
-![Implementación de lógica de negocio](Implementación%20de%20lógica%20de%20nego....png)
+![Implementación de lógica de negocio](Implementación.png)
 
 ### 3. Servidor Frontend
 Evidencia del servidor de React en ejecución.
@@ -47,7 +47,7 @@ Evidencia del servidor de React en ejecución.
 
 ### 4. Instalación de Herramientas
 Prueba de la configuración del entorno de desarrollo.
-![evidencia_instalacion_herramientas](evidencia_instalacion_herramientas....png)
+![evidencia_instalacion_herramientas](evidencia_instalacion.png)
 
 ## Conclusión
 Se logró integrar con éxito un frontend en React con un backend en .NET 8 utilizando contenedores Docker. A pesar de los retos en el mapeo de rutas, se comprendió la importancia de la configuración de CORS y la gestión de puertos en arquitecturas distribuidas.
